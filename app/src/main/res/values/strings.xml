@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">quiz-app</string>
+    <string name="ques1">Ques#1: What is Kotlin\'s interoperability with Java like?</string>
+    <string name="q1_optionA">Fully interoperable, allowing calling Kotlin code from Java and vice versa.</string>
+    <string name="q1_optionB">Limited interoperability, mainly one-way from Kotlin to Java.</string>
+    <string name="q1_optionC">No interoperability between Kotlin and Java.</string>
+    <string name="q1_optionD">Interoperability depends on the specific version of Kotlin used.</string>
+    <string name="ques2">Ques#2: Which Kotlin feature helps prevent null pointer exceptions?</string>
+    <string name="q2_optionA">Smart Casts</string>
+    <string name="q2_optionB">Extension Functions</string>
+    <string name="q2_optionC">Nullable Types</string>
+    <string name="q2_optionD">All Of These</string>
+</resources>
